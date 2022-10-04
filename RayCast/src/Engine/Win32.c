@@ -179,6 +179,7 @@ Win32MainWindowCallback(HWND window, UINT message, WPARAM wParam, LPARAM lParam)
 		int test = w.rcWindow.left + 8;
 		
 		currentMouse = x + test - midX;
+		currentMouse *= 2500 * ( float ) deltaTime;
 		break;
 	}
 	case WM_LBUTTONDOWN:
