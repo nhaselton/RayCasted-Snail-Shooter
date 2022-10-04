@@ -4,3 +4,5 @@ This was a small game i made over my spring vacation because i was curious how r
 
 NOTE:
 for a standalone build you have to add the res folder into the same folder as the .exe
+
+![Alt text](https://github.com/nhaselton/RayCasted-Snail-Shooter/blob/master/ScreenShot.png)
